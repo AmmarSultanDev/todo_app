@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:todo_app/demo_buttons.dart';
 
 class UIUpdatesDemo extends StatelessWidget {
-  UIUpdatesDemo({super.key});
+  const UIUpdatesDemo({super.key});
 
   @override
   Widget build(BuildContext context) {
